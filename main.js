@@ -1,6 +1,6 @@
 class Main {
 constructor() {
-this.a=1;
+this.aaz=1;
 this.b='foo';
 this.c=[1,2,3];
 this.d={x:5};
