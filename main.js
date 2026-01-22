@@ -101,6 +101,7 @@ this.bat=parseInt(bas, 16);
 this.bau=isNaN(bat);
 this.bav=ba + bb;
 this.baw=Math.pow(bg, 3);
+this.bay=2;
 }
 foo(){return this.a+this.b.length;}
 bar(x){return this.c[x%this.c.length];}
